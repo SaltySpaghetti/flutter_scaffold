@@ -1,6 +1,6 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:scaffold/features/l10n/app_localizations.dart';
 import 'package:scaffold/di/dependency_injector.dart';
 import 'package:scaffold/features/routing/app_router.dart';
 import 'package:scaffold/features/routing/observers/app_navigator_observer.dart';
