@@ -1,4 +1,3 @@
-// Openapi Generator last run: : 2025-02-07T18:06:18.826157
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
